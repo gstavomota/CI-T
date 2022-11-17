@@ -5,4 +5,3 @@ Os valores das vendas que devem ser consideradas podem variar entre 20 e 500 rea
 A sua função/método deverá receber uma lista vendas agrupadas por vendedores, (e.g. [[200, 100], [300]]) e retornar um array onde a primeira posição contém o menor valor e a segunda posição o maior valor (e.g. [100, 300]).
 
 Mas preste atenção! Algum vendedor pode não ter realizado vendas no período.
-
